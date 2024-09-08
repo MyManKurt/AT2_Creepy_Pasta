@@ -1756,7 +1756,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b7dcfce6d2593648af1eaa0de05854e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  debug: 0
+  debug: 1
   defaultSpeed: 3.86
   gravity: 27.3
   disableJump: 0
