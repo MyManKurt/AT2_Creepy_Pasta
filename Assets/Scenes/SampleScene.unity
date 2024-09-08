@@ -1703,7 +1703,7 @@ Transform:
   m_GameObject: {fileID: 721458348}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -515.22974, y: -455.85962, z: -710.5013}
+  m_LocalPosition: {x: -515.22723, y: -454.07773, z: -710.3915}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3058,11 +3058,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   debug: 0
-  defaultSpeed: 1
-  gravity: 0
+  defaultSpeed: 3.86
+  gravity: 27.3
   disableJump: 0
-  jumpForce: 0
-  jumpClips: []
+  jumpForce: 3.691
+  jumpClips:
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!82 &1288629346
 AudioSource:
   m_ObjectHideFlags: 0
@@ -5071,8 +5073,8 @@ Transform:
   m_GameObject: {fileID: 1989431195}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 1.4283113, z: 0}
+  m_LocalScale: {x: 1, y: 1.8089, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4691046993858222169}
