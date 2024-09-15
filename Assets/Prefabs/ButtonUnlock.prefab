@@ -744,7 +744,7 @@ MonoBehaviour:
   debug: 0
   active: 1
   disableOnSuccessfulInteraction: 0
-  interactionClip: {fileID: 8300000, guid: 4056ddbb73d703a4bbce54145238465a, type: 3}
+  interactionClip: {fileID: 8300000, guid: 0a2c7285191346a4294a475db020cbfc, type: 3}
   interactionEvents:
     m_PersistentCalls:
       m_Calls:
