@@ -917,12 +917,12 @@ MonoBehaviour:
   debug: 0
   active: 1
   disableOnSuccessfulInteraction: 0
-  interactionClip: {fileID: 8300000, guid: 04b81a49e20dd7c449198d7201b0b841, type: 3}
+  interactionClip: {fileID: 8300000, guid: 4547fb4d1627d4ce6acc55af375f84f4, type: 3}
   openOnStart: 0
   lockGroup:
   - {fileID: 1160913048258715857}
-  lockedInteractionClip: {fileID: 8300000, guid: dafaeca2344dcfd4abb94d6f1e234ffd, type: 3}
-  lockedOnStart: 0
+  lockedInteractionClip: {fileID: 8300000, guid: 80d08fa5dccc64ffa90d6734ce03512e, type: 3}
+  lockedOnStart: 1
 --- !u!1 &7719438816772065331
 GameObject:
   m_ObjectHideFlags: 0
