@@ -24477,8 +24477,24 @@ PrefabInstance:
     m_TransformParent: {fileID: 993091753}
     m_Modifications:
     - target: {fileID: 4517806998535479953, guid: 0c22778abe4229c4da409d1630c76ffa, type: 3}
+      propertyPath: m_Range
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 4517806998535479953, guid: 0c22778abe4229c4da409d1630c76ffa, type: 3}
       propertyPath: m_Intensity
-      value: 2.6
+      value: 12.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4517806998535479953, guid: 0c22778abe4229c4da409d1630c76ffa, type: 3}
+      propertyPath: m_SpotAngle
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 4517806998535479953, guid: 0c22778abe4229c4da409d1630c76ffa, type: 3}
+      propertyPath: m_InnerSpotAngle
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4517806998535479953, guid: 0c22778abe4229c4da409d1630c76ffa, type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4839935651393280150, guid: 0c22778abe4229c4da409d1630c76ffa, type: 3}
       propertyPath: m_LocalScale.x
