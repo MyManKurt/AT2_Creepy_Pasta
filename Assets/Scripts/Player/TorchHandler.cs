@@ -21,7 +21,7 @@ public class TorchHandler : MonoBehaviour
     {
         if (isOn && power > 0)
         {
-            power -= 0.05f * Time.deltaTime;
+            power -= 0.02f * Time.deltaTime;
             bright.intensity = Mathf.Clamp01(power);
         }
         if (Input.GetKeyDown(KeyCode.F))

@@ -19,14 +19,14 @@ public class CountDowntimer : MonoBehaviour
      */
     //Countdown timer - float
 
-    public float countDownTimer = 200;
+    public float countDownTimer = 215;
     [SerializeField]
     public UnityEvent timerEnd = new UnityEvent();
     public Text timerDisplay;
 
     private void Start()
     {
-        countDownTimer = 200;
+        countDownTimer = 215;
         timerDisplay = GameObject.FindGameObjectWithTag("CountDown").GetComponent<Text>();
     }
     private void Update()
